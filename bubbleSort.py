@@ -1,6 +1,5 @@
 """	Bubble Sort
-	Autores:	Hernandez García Luis Angel
-				Vázquez Sanchéz Ilse Abril
+	Autores:	Vázquez Sanchéz Ilse Abril
 
 	Algoritmo: Tomando un vector 'a' con elementos a1, a2, ..., an
 	1)	Comparar a1 con a2

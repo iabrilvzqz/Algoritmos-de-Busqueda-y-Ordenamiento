@@ -1,6 +1,5 @@
 """	Merge Sort
-	Autores:	Hernández García Luis Angel
-				Vázquez Sánchez Ilse Abril
+	Autores:	Vázquez Sánchez Ilse Abril
 
 	Basado en la técnica "divide y vencerás". De complejidad O(n log(n)).
 

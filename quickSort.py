@@ -1,8 +1,7 @@
 """	Quick Sort
-	Autores:	Hernández García Luis Angel
-				Vázquez Sánchez Ilse Abril
+	Autores:	Vázquez Sánchez Ilse Abril
 
-	Basado en la técnica "divide y vencerás". De complejidad O(n log(n)).
+	Basado en la técnica "divide y vencerás".
 
 	Algoritmo:
 	1) Elegir un elemento del arreglo como pivote.

@@ -1,6 +1,5 @@
 """	Heap Sort
-	Autores:	Hernández García Luis Angel
-				Vázquez Sánchez Ilse Abril
+	Autores:	Vázquez Sánchez Ilse Abril
 
 	De complejidad O(n log(n)). Para realizar este ordenamiento se deben de acomodar
 	a la lista de numeros en montículos (heaps), un nodo con dos hijos (formando un árbol

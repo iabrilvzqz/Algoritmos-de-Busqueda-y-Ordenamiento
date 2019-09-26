@@ -1,6 +1,5 @@
 """	Radix Sort
-	Autores:	Hernandez Garcia Luis Angel
-				Vazquez Sanchez Ilse Abril
+	Autor:	Vazquez Sanchez Ilse Abril
 	
 	Descripcion: Este programa tiene ligeras modificaciones respecto al Radix Sort para numeros
 	ya que nos permite ordenar palabras. Estas se pasan a mayuscula ya que haremos uso del codigo ascii

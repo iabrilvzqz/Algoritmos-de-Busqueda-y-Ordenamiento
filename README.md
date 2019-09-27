@@ -3,23 +3,23 @@ Los programas que se encuentran en este repositorio fueron creados para los alum
 
 ## Algoritmos implementados
 	Ordenamiento:
-		* Bubble Sort
-		* Merge Sort
-		* Quick Sort
-		* Heap Sort
-		* Radix Sort (números y cadenas)
+		- Bubble Sort
+		- Merge Sort
+		- Quick Sort
+		- Heap Sort
+		- Radix Sort (números y cadenas)
 
 	Búsqueda:
-		* Búsqueda Lineal
-		* Búsqueda Binaria
-		* Hash
-		* Búsqueda en profundidad (DFS)
-		* Búsqueda en anchura (BFS)
+		- Búsqueda Lineal
+		- Búsqueda Binaria
+		- Hash
+		- Búsqueda en profundidad (DFS)
+		- Búsqueda en anchura (BFS)
 
 	Determinación del camino más corto:
-		* Bellman - Ford
-		* Dijkstra
-		* A *
+		- Bellman - Ford
+		- Dijkstra
+		- A*
 
 ## Pre-requisitos
 Para poder ejecutar los programas se necesita Python 3.

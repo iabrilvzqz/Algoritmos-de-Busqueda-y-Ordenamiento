@@ -22,7 +22,7 @@ Los programas que se encuentran en este repositorio fueron creados para los alum
 		- A*
 
 ## Pre-requisitos
-Para poder ejecutar los programas se necesita Python 3.
+Para poder ejecutar los programas se recomienda utilizar Python 3.
 
 ## Contacto :computer: :email:
 Ilse Abril Vázquez Sánchez - iabrilvzqz@gmail.com

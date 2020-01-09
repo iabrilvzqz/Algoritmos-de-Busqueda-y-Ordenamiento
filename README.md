@@ -1,5 +1,5 @@
 # Algoritmos de Búsqueda y Ordenamiento en Python :school_satchel: :pencil2:
-Los programas que se encuentran en este repositorio fueron creados para los alumnos del curso de Algoritmos de Búsqueda y  Ordenamiento en Python impartido en el periodo intersemestral 2019-2 en el Laboratorio Intel y Cómputo de Alto Desempeño de la Facultad de Ingeniería, UNAM.
+Los programas que se encuentran en este repositorio fueron creados para los alumnos del curso de Algoritmos de Búsqueda y  Ordenamiento en Python impartido en el periodo intersemestral 2019-2 y 2020-1 en el Laboratorio Intel y Cómputo de Alto Desempeño de la Facultad de Ingeniería, UNAM.
 
 ## Algoritmos implementados
 	Ordenamiento:
